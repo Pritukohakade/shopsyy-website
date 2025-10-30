@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 import ProductDisplay from '../components/ProductDisplay/ProductDisplay';
 import BredCrums from '../components/BredCrums/BredCrums';
 import Description from '../components/Description/Description';
-import RelatedProduct from '../components/Relatedproducts/Relatedproduct';
+import RelatedProducts from '../components/Relatedproduct/Relatedproduct';
 
 
 
