@@ -2,9 +2,9 @@ import React, { useContext } from 'react'
 import { ShopContext } from '../context/ShopContext'
 import { useParams } from 'react-router-dom';
 import ProductDisplay from '../components/ProductDisplay/ProductDisplay';
-import BredCrums from '../components/BredCrums/BredCrums';
+import BredCrums from '../components/Bredcrums/BredCrums';
 import Description from '../components/Description/Description';
-import RelatedProducts from '../components/Relatedproduct/Relatedproduct';
+import Relatedproduct from '../components/RelatedProducts/Relatedproduct';
 
 
 
